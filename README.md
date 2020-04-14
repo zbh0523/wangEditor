@@ -1,5 +1,5 @@
 
-# wangEditor
+# wangEditor1
 
 ## 介绍
 
